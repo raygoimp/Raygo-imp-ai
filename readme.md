@@ -6,4 +6,4 @@ I have made this company because there are so many ai's but not all ai's are fre
 
 [🌐my website🌐](https://gratis-5390008.jouwweb.site/?_gl=1*dg0eq1*_ga*MTAzNzI0Nzk2Mi4xNzIzNjQxNjAz*_ga_E6PZPGE4QM*MTcyMzY0MTYwMi4xLjEuMTcyMzY0NTUxOC4zNC4wLjA.)
 
-## download: [latest release](https://github.com/raygoimp/Raygo-imp-ai/releases/download/v1.0.0/Raygo-imp-ai.1.zip)
+## download: [latest release](https://github.com/raygoimp/Raygo-imp-ai/releases/download/v1.5.0/Raygo-imp-ai.zip)
